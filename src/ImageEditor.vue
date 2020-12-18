@@ -2,7 +2,7 @@
   <div ref="tuiImageEditor" style="width: 100%;height: 100%;"></div>
 </template>
 <script>
-import ImageEditor from 'tui-image-editor';
+import ImageEditor from 'jab-tui-image-editor';
 
 const includeUIOptions = {
   includeUI: {

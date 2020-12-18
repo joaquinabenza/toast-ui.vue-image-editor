@@ -1,6 +1,6 @@
 {
-  "name": "@toast-ui/vue-image-editor",
-  "version": "1.3.0",
+  "name": "jab-vue-image-editor",
+  "version": "1.4.4",
   "description": "Vue wrapper component for tui.imageEditor",
   "main": "dist/toastui-vue-image-editor.js",
   "files": [
@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "fabric": "4.2.0",
-    "tui-image-editor": "^3.11.0"
+    "jab-tui-image-editor": "^1.1.3"
   }
 }
